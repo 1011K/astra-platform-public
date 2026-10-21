@@ -1,1 +1,3 @@
-# ASTRA — Financial intelligence research platform
+# ASTRA
+
+ASTRA is a financial research and analysis platform.
