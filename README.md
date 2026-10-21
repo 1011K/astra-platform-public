@@ -1,1 +1,1 @@
-# astra-platform-public
+# ASTRA — Financial intelligence research platform
